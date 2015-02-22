@@ -13,7 +13,7 @@
 	<table>
 		<tr>
 			<td>User Name :</td>
-			<td><form:input path="name" /></td>
+			<td><form:input path="name"  /></td>
 		</tr>
 		<tr>
 			<td>Password :</td>

@@ -13,7 +13,7 @@
 		</property>
 	</bean>
 
-	<bean name="/welcome.htm" 
+	<bean name="/welcome.htm"  
 		class="com.mkyong.common.controller.HelloWorldController" />
 
 </beans>
